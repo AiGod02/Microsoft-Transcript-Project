@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "b5AiyGS1r8ZoUwM+IX6IjZrSIyvk7bV2spRWwfgLtbpVDpsXzStn2iSe7n9DRBzlMiJcrTX8C5Jo+FhjV8Xrfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sooja\\Downloads\\Microsoft-Transcript-project-master\\Microsoft-Transcript-project-master\\speech-to-text.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sooja\\.nuget\\packages\\microsoft.cognitiveservices.speech\\1.36.0\\microsoft.cognitiveservices.speech.1.36.0.nupkg.sha512"
+  ],
+  "logs": []
+}
